@@ -3,9 +3,9 @@ base_link:
     x: 0.32
     y: 0.0
     z: 0.4
-    roll: -0.001
-    pitch: 0.015
-    yaw: -0.0364
+    roll: 0
+    pitch: 0
+    yaw: 0
   mid360_rear_base_link:
     x: 0.1870
     y: 0.0803
